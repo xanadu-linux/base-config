@@ -1,4 +1,16 @@
-commit 5a5059265441b3ca7bb116ebbc1cdca52db01a1f (HEAD, origin/master, origin/HEAD, master)
+commit bf5f1b8defe0a93ebf7721d844a75e18e5bb8402 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Apr 5 22:11:12 2016 -0430
+
+    * se agrega locale.nopurge
+
+commit 26f70b474daad68e2d2cdfbb6120e205ace61365
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Apr 5 22:10:02 2016 -0430
+
+    * changelog
+
+commit 5a5059265441b3ca7bb116ebbc1cdca52db01a1f
 Author: jose perez <sinfallas@gmail.com>
 Date:   Tue Apr 5 22:09:38 2016 -0430
 
