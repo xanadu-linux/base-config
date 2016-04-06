@@ -1,0 +1,6 @@
++/bin/dd
++/bin/cat
++/usr/bin/sdmem
++/usr/bin/sswap
++/usr/bin/shred
++/sbin/poweroff
