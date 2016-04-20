@@ -1,10 +1,22 @@
-commit e2ab0f92a053737546bb95b86b85f28c294d2018 (HEAD, origin/master, origin/HEAD, master)
+commit 6c3964e9cec3594fd1b4e8e343f6da3b3356b1bd (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Apr 20 18:23:07 2016 -0430
+
+    * nuevos parametros
+
+commit a0af131c49be9f6f7a4441bc2cf6a50242cce75d
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Apr 17 20:11:00 2016 -0430
+
+    * changelog
+
+commit e2ab0f92a053737546bb95b86b85f28c294d2018
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Apr 17 20:10:50 2016 -0430
 
     * zenodo
 
-commit 3a46979b458c8fb52bc6e7ef75f0ccbdca878a56
+commit 3a46979b458c8fb52bc6e7ef75f0ccbdca878a56 (tag: v0.1.1)
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sat Apr 9 11:50:03 2016 -0430
 
