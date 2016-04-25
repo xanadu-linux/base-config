@@ -1,4 +1,16 @@
-commit 6c3964e9cec3594fd1b4e8e343f6da3b3356b1bd (HEAD, origin/master, origin/HEAD, master)
+commit 03b3e705d84b7cdcb5f1fef74383d135a3370ff1 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Apr 25 16:58:10 2016 -0430
+
+    * se cambia la prioridad de xanadu-sysctl.conf de 10 a 30
+
+commit a388eea47301de30e19e6c87ffe70e9d3268c1be
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Apr 20 18:23:23 2016 -0430
+
+    * changelog
+
+commit 6c3964e9cec3594fd1b4e8e343f6da3b3356b1bd
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Apr 20 18:23:07 2016 -0430
 
