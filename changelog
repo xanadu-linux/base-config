@@ -1,4 +1,16 @@
-commit 03b3e705d84b7cdcb5f1fef74383d135a3370ff1 (HEAD, origin/master, origin/HEAD, master)
+commit 3ea07d8384a2ab38cbec46c3377416d8d1e808b1 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 5 12:01:57 2017 -0400
+
+    * se elimina un valor innecesario
+
+commit 493bf9a17fd74bbc86e55ee4f41261e77e3d9460
+Author: jose perez <sinfallas@gmail.com>
+Date:   Mon Apr 25 16:58:46 2016 -0430
+
+    * changelog
+
+commit 03b3e705d84b7cdcb5f1fef74383d135a3370ff1
 Author: jose perez <sinfallas@gmail.com>
 Date:   Mon Apr 25 16:58:10 2016 -0430
 
