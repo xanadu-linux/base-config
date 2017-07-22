@@ -1,4 +1,16 @@
-commit 3ea07d8384a2ab38cbec46c3377416d8d1e808b1 (HEAD, origin/master, origin/HEAD, master)
+commit 0b9aff75936c0360bd86e29907c247a3ecd012f6 (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Jul 21 20:41:27 2017 -0400
+
+    * se agregan nuevos valores al sysctl
+
+commit 654bcdd22fa563000e4990431f93001a127991a3
+Author: jose perez <sinfallas@gmail.com>
+Date:   Wed Jul 5 12:02:17 2017 -0400
+
+    * changelog
+
+commit 3ea07d8384a2ab38cbec46c3377416d8d1e808b1
 Author: jose perez <sinfallas@gmail.com>
 Date:   Wed Jul 5 12:01:57 2017 -0400
 
