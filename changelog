@@ -1,4 +1,16 @@
-commit 0b9aff75936c0360bd86e29907c247a3ecd012f6 (HEAD, origin/master, origin/HEAD, master)
+commit 2889bfeb18eeab7e3638048edeb283811812831a (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Aug 27 19:37:32 2017 -0400
+
+    * se cambian parametros en tmpfiles.d
+
+commit 408b94130f62145960b317aa288896680f39c465
+Author: jose perez <sinfallas@gmail.com>
+Date:   Fri Jul 21 20:41:57 2017 -0400
+
+    * changelog
+
+commit 0b9aff75936c0360bd86e29907c247a3ecd012f6
 Author: jose perez <sinfallas@gmail.com>
 Date:   Fri Jul 21 20:41:27 2017 -0400
 
