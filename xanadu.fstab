@@ -1,4 +1,4 @@
-tmpfs /var/cache/samba tmpfs noatime,async,nodev 0 0
-tmpfs /var/log tmpfs noatime,noexec,async,nodev 0 0
-tmpfs /var/spool tmpfs noatime,async,nodev 0 0
-tmpfs /var/tmp tmpfs noatime,async,nosuid,noexec,nodev,rw 0 0
+tmpfs /var/cache/samba tmpfs rw,async,nodev,noatime 0 0
+tmpfs /var/log tmpfs rw,async,noexec,nodev,noatime 0 0
+tmpfs /var/spool tmpfs rw,async,nodev,noatime 0 0
+tmpfs /var/tmp tmpfs rw,nosuid,async,noexec,nodev,noatime,mode=1600 0 0
