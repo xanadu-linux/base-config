@@ -1,4 +1,28 @@
-commit 2889bfeb18eeab7e3638048edeb283811812831a (HEAD, origin/master, origin/HEAD, master)
+commit 97ca1e306893de5fbd2ca012ca9de2b22678b0cc (HEAD, origin/master, origin/HEAD, master)
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Aug 29 13:20:41 2017 -0400
+
+    * bugfix
+
+commit e72d3e55d68aee5f0d7d26ea1d083c04458f98da
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Aug 29 13:17:06 2017 -0400
+
+    * bugfix
+
+commit a4f4a2c31ae6a97fd3217ebbb140bfa3cd9c806b
+Author: jose perez <sinfallas@gmail.com>
+Date:   Tue Aug 29 13:14:52 2017 -0400
+
+    * se activa el sticky bit en /var/tmp
+
+commit ea2bfbe3076997559d30315f82bcdc4387e4ce4f
+Author: jose perez <sinfallas@gmail.com>
+Date:   Sun Aug 27 19:42:11 2017 -0400
+
+    * changelog
+
+commit 2889bfeb18eeab7e3638048edeb283811812831a
 Author: jose perez <sinfallas@gmail.com>
 Date:   Sun Aug 27 19:37:32 2017 -0400
 
